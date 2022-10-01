@@ -1,0 +1,15 @@
+C:\Users\LENOVO\source\repos\EmpWageSwitchcaseSol\EmpWageSwitchcase\obj\Debug\net6.0\EmpWageSwitchcase.csproj.AssemblyReference.cache
+C:\Users\LENOVO\source\repos\EmpWageSwitchcaseSol\EmpWageSwitchcase\obj\Debug\net6.0\EmpWageSwitchcase.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LENOVO\source\repos\EmpWageSwitchcaseSol\EmpWageSwitchcase\obj\Debug\net6.0\EmpWageSwitchcase.AssemblyInfoInputs.cache
+C:\Users\LENOVO\source\repos\EmpWageSwitchcaseSol\EmpWageSwitchcase\obj\Debug\net6.0\EmpWageSwitchcase.AssemblyInfo.cs
+C:\Users\LENOVO\source\repos\EmpWageSwitchcaseSol\EmpWageSwitchcase\obj\Debug\net6.0\EmpWageSwitchcase.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\source\repos\EmpWageSwitchcaseSol\EmpWageSwitchcase\bin\Debug\net6.0\EmpWageSwitchcase.exe
+C:\Users\LENOVO\source\repos\EmpWageSwitchcaseSol\EmpWageSwitchcase\bin\Debug\net6.0\EmpWageSwitchcase.deps.json
+C:\Users\LENOVO\source\repos\EmpWageSwitchcaseSol\EmpWageSwitchcase\bin\Debug\net6.0\EmpWageSwitchcase.runtimeconfig.json
+C:\Users\LENOVO\source\repos\EmpWageSwitchcaseSol\EmpWageSwitchcase\bin\Debug\net6.0\EmpWageSwitchcase.dll
+C:\Users\LENOVO\source\repos\EmpWageSwitchcaseSol\EmpWageSwitchcase\bin\Debug\net6.0\EmpWageSwitchcase.pdb
+C:\Users\LENOVO\source\repos\EmpWageSwitchcaseSol\EmpWageSwitchcase\obj\Debug\net6.0\EmpWageSwitchcase.dll
+C:\Users\LENOVO\source\repos\EmpWageSwitchcaseSol\EmpWageSwitchcase\obj\Debug\net6.0\refint\EmpWageSwitchcase.dll
+C:\Users\LENOVO\source\repos\EmpWageSwitchcaseSol\EmpWageSwitchcase\obj\Debug\net6.0\EmpWageSwitchcase.pdb
+C:\Users\LENOVO\source\repos\EmpWageSwitchcaseSol\EmpWageSwitchcase\obj\Debug\net6.0\EmpWageSwitchcase.genruntimeconfig.cache
+C:\Users\LENOVO\source\repos\EmpWageSwitchcaseSol\EmpWageSwitchcase\obj\Debug\net6.0\ref\EmpWageSwitchcase.dll
